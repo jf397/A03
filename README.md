@@ -36,3 +36,9 @@ Github is a free coding software where you can create repositories and collabora
 - Pull: Using the **pull** command is opposite of the push command, it allows you to move your locally edited projetcs on Github to your remote editor such as Webstorm 
 - Remote: You can have a "remote" repository, for example on Webstorm where you can push files to Github or pull files from Github to said **remote** repository. 
 - Repository: A **repository** on Github is a location where your relevant rojects are stored and managed. You can have a **repository** for each overall project you're working on. 
+
+Hendela, H. Arthur (2022). Introduction to Github and Webstorm. NJIT, IS117.
+
+Jetbrains. (2022). Git. Retrieved February 7, 2022, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
+
+GitHub (2022) GitHub Guides Tutorial. Retrieved February 7, 2022, from https://guides.github.com/activities/hello-world/ 
